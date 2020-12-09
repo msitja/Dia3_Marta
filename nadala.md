@@ -1,0 +1,3 @@
+# Si n'eren tre pastors
+
+Si n'eren tres pastors que anaven a la guerra i el més petit de tots...
