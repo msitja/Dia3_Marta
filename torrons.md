@@ -2,10 +2,6 @@
 
 ### S'han de comprar a un lloc de qualitat com per exemple: **TorronsGuillermo Mira** a *c/Carme xxx*
 
-
-![Guillermo Mira al seu obrador](relative/path/to/img.jpg?raw=true "Guillermo Mira")
-
-
 El millor torró:
 
 ![Torró de "yema"](yema.jpg?raw=true "Torró Yema")
